@@ -16,4 +16,9 @@ public class MainController {
         return "main/generic";
     }
 
+    @RequestMapping("camprover")
+    public String camprover() {
+        return "main/camprover";
+    }
+
 }

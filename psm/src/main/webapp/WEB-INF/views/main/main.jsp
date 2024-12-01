@@ -1,6 +1,5 @@
 <%@ page contentType="text/html; charset=UTF-8" %>
 
-
 <!DOCTYPE HTML>
 <!--
 	Hyperspace by HTML5 UP
@@ -24,7 +23,7 @@
 						<ul>
 							<li><a href="#intro">PORTFOLIO</a></li>
 							<li><a href="#one">PARKSEONGMIN</a></li>
-							<li><a href="#two">Skill</a></li>
+							<li><a href="#two">Projects</a></li>
 							<li><a href="#three">EMAIL</a></li>
 						</ul>
 					</nav>
@@ -51,13 +50,13 @@
 				<!-- One -->
 					<section id="one" class="wrapper style2 spotlights">
 						<section>
-							<a href="#" class="image"><img src="../../../assets/images/pic01.jpg" alt="" data-position="center center" /></a>
+							<a href="#" class="image"><img src="../../../assets/images/camprover_logo.jpg" alt="" data-position="center center" /></a>
 							<div class="content">
 								<div class="inner">
-									<h2>Sed ipsum dolor</h2>
-									<p>Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis mauris, eu ultricies erat malesuada quis. Aliquam dapibus.</p>
+									<h2>camprover</h2>
+									<p>포트폴리오용 캠핑예약 사이트</p>
 									<ul class="actions">
-										<li><a href="generic" class="button">Learn more</a></li>
+										<li><a href="camprover" class="button">Learn more</a></li>
 									</ul>
 								</div>
 							</div>
