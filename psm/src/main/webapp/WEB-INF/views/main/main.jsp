@@ -22,8 +22,8 @@
 					<nav>
 						<ul>
 							<li><a href="#intro">PORTFOLIO</a></li>
-							<li><a href="#one">PARKSEONGMIN</a></li>
-							<li><a href="#two">Projects</a></li>
+							<li><a href="#one">Projects</a></li>
+							<li><a href="#two">PARKSEONGMIN</a></li>
 							<li><a href="#three">EMAIL</a></li>
 						</ul>
 					</nav>
