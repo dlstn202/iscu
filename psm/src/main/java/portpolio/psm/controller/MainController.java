@@ -21,4 +21,9 @@ public class MainController {
         return "main/camprover";
     }
 
+    @RequestMapping("miniProject")
+    public String miniProject() {
+        return "main/miniProject";
+    }
+
 }

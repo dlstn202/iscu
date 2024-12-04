@@ -35,14 +35,18 @@
 				<!-- Main -->
 					<section id="main" class="wrapper">
 						<div class="inner">
-							<h1 class="major">camprover</h1>
-							<p>포트폴리오용 캠핑장 예약 사이트를 제작했습니다.</p>
-							<p>프로젝트 제작시 역할 : 팀장, DB 생성 및 설계, 관광 API 구현, 장소, 저장 CRUD 구현, 전체 기능 구현, 전체 CSS</p>
-							<span class="image fit"><img src="../../../assets/images/camprover0.png" alt="" /></span>
-							<span class="image fit"><img src="../../../assets/images/camprover1.png" alt="" /></span>
-							<span class="image fit"><img src="../../../assets/images/camprover2.png" alt="" /></span>
-							<span class="image fit"><img src="../../../assets/images/camprover3.png" alt="" /></span>
-							
+							<h1 class="major">Mini Project</h1>
+							<p>포트폴리오용 지식공유형 사이트를 제작했습니다.</p>
+							<p>프로젝트 제작시 역할 : 팀장, GitHub 연결, DB설계 및 구축, 메인페이지 외 CSS, 한국관광공사 API외 전체 기능 구현 서포트</p>
+							<span class="image fit"><img src="../../../assets/images/AND조_UI설계보고서_6.png" alt="" /></span>
+							<span class="image fit"><img src="../../../assets/images/AND조_UI설계보고서_7.png" alt="" /></span>
+							<span class="image fit"><img src="../../../assets/images/AND조_UI설계보고서_9.png" alt="" /></span>
+							<span class="image fit"><img src="../../../assets/images/AND조_UI설계보고서_10.png" alt="" /></span>
+							<span class="image fit"><img src="../../../assets/images/AND조_UI설계보고서_11.png" alt="" /></span>
+							<span class="image fit"><img src="../../../assets/images/AND조_UI설계보고서_12.png" alt="" /></span>
+							<span class="image fit"><img src="../../../assets/images/AND조_UI설계보고서_14.png" alt="" /></span>
+							<span class="image fit"><img src="../../../assets/images/AND조_UI설계보고서_15.png" alt="" /></span>
+							<span class="image fit"><img src="../../../assets/images/AND조_UI설계보고서_16.png" alt="" /></span>
 						</div>
 					</section>
 
